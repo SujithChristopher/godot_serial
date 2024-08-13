@@ -1,0 +1,9 @@
+[package]
+name = "godot_serial"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+gdnative = "0.11.3"
+serial = "0.4.0"
+serialport = "4.5.0"
